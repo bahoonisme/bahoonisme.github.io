@@ -2901,6 +2901,7 @@ input, select, textarea {
 
 			.statistics li.style3 {
 				background-color: #fce7b1;
+			}
 
 			.statistics li.style4 {
 				background-color: #9bb2e1;
@@ -3800,6 +3801,4 @@ input, select, textarea {
 #test3 :hover{
 	background-color:rgb(253, 227, 160);
 }
-
-
 
