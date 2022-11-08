@@ -2896,12 +2896,11 @@ input, select, textarea {
 			}
 
 			.statistics li.style2 {
-				background-color: #dab1d727;
+				background-color: #f8e3f5;
 			}
 
 			.statistics li.style3 {
-				background-color: #ffe092;
-			}
+				background-color: #fce7b1;
 
 			.statistics li.style4 {
 				background-color: #9bb2e1;
@@ -3795,10 +3794,12 @@ input, select, textarea {
 }
 
 #test2 :hover{
-	background-color:#f7eef6;
+	background-color:#f8d9f4;
 }
 
 #test3 :hover{
-	background-color:rgb(253, 217, 127);
+	background-color:rgb(253, 227, 160);
 }
+
+
 
