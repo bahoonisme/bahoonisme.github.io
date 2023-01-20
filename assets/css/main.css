@@ -2861,7 +2861,7 @@ input, select, textarea {
 		}
 
 /* Statistics */
-.statistics :hover {
+.statistics {
 	background-color: #dddddd;
 }
 	.statistics {
