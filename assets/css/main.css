@@ -2862,7 +2862,7 @@ input, select, textarea {
 
 /* Statistics */
 .statistics {
-	background-color: #dddddd;
+	background-color: transparent;
 }
 	.statistics {
 		display: -moz-flex;
